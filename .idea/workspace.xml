@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d74327c-77ba-46fa-ab09-6b4f2ac146a4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/First_Jupyter_NB.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/First_Jupyter_NB.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Python_Practice-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_Numpy_02_PostRead.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Numpy03_Notes.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPy/NumPy-1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumPy/NumPy-1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,5 +44,16 @@
       <updated>1654164399075</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
